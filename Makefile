@@ -4,7 +4,8 @@ GHOSTSCRIPT = gs
 SLIDES = pag1.pdf \
          pag2.pdf \
          pag3.pdf \
-         pag4.pdf
+         pag4.pdf \
+         pag5.pdf
 
 PDF = CV_FelipeSanches.pdf
 
