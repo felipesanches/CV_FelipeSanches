@@ -1,0 +1,164 @@
+ Felipe C. da S. Sanches
+ juca@members.fsf.org / fsanches@metamaquina.com.br
+
+== Summary ==
+ I'm a hacker (software developer and hardware designer) commited to the values of the
+ software freedom movement.
+
+ Skills: libre software development and advocacy, IT training & education, strategic
+ community coordination, open standards advocacy, public speaking, graphic design,
+ digital electronics, reverse engineering, digital manufacturing
+
+== Experience ==
+=== Member of the Executive Secretariat at NETmundial - Global Multistakeholder Meeting on the Future of Internet Governance ===
+ February 2014 - April 2014 (3 months)
+
+ http://netmundial.br/
+
+ * Analysis and preparation of a summary of the 188 content contributions sent from all over the world as input to the meeting agenda.
+ * Support to the Executive Multistakeholder Committee when drafting the proposed Outcome Document for the meeting
+ * Analysis and preparation of a summary of the comments made on the online public consultation of the proposed Outcome Document
+ * Coordination of a team of 7 translators and of 33 Remote Participation Hubs (10 of which had live video feed to present comments to the local meeting)
+
+=== Owner at Metamáquina ===
+Since October 2011
+
+We're a 3D printing business focused on popularizing rapid prototyping machines in Brazil. We're fully commited to free software and open hardware design.
+
+ * Company's lead role in R&D
+ * Hardware design and software/firmware development for an open hardware 3D printer (Metamáquina 2)
+ * Regular contributions to upstream free software projects such as OpenSCAD and Repetier-Firmware.
+ * Management of the Metamáquina 2 production line.
+ * Lecturer in several educational workshops covering topics such as 3D modelling, 3D printers
+ maintainence and operation, free software development tools, hacker ethics and open innovation.
+ Workshops also included guided assembly and educational exploration of DIY hardware kits such as the SpokePOV and the Uzebox 8-bit video-game, reverse engineering techniques and learning by tinkering in general.
+ * Tutorship at extra-curricular STEM classes at the Saint Paul's british school in São Paulo, Brazil.
+
+=== President and co-founder at Garoa Hacker Clube ===
+ September 2010 - March 2012 (1 year 7 months)
+
+ Garoa Hacker Clube is the first brazilian hackerspace, a community laboratory for open learning and tinkering with art and technology. We provide infrastructure for DIY-minded people.
+
+=== Free Software developer at Understanding Limited ===
+ March 2011 - December 2011 (10 months)
+
+ * Presented speaches about typography features in Inkscape, the Google Webfonts project, and the software freedom movement to graphics design students in several design schools across Argentina (Buenos Aires, Cordoba and Rosário) together with Dave Crossland and Pablo Impallari.
+ * Patches to improve GNOME3's Shell Recorder and development of the GNOME Screencast application.
+ * Development of typography related features in Inkscape such as the new Measurement Tool introduced in Inkscape 0.49 ( http://libregraphicsworld.org/blog/entry/inkscape-measure-tool-gets-an-update )
+ * Development of a Firefox add-on for downloading WebFonts ( https://code.google.com/p/web-font-downloader/ )
+
+=== Volunteer free software developer at Inkscape development team ===
+ Since July 2007
+
+* Developed several features in Inkscape, including the initial implementation of SVG Filters rendering according to the W3C's Scalable Vector Graphics 1.1 spec.
+
+=== Volunteer free software developer - GNU Project (LibreDWG) at GNU Project ===
+ Since September 2009
+
+* Co-creator and developer of the GNU LibreDWG library for handling DWG files - a secret file format used by AutoCAD - as part of the GNU Project. This library is one of the projects in FSF's High Priority Projects List.
+
+ The purpose of this library is to enable free software CAD tools to compete in the computer aided design market. The development of the library is done based on an unofficial technical documentation published by Autodesk competitors who have worked on reverse engineering of the file format.
+
+=== Scholarship - Inkscape (ICC colors / CMYK) at Google's Summer of Code program ===
+ May 2009 - August 2009 (4 months)
+
+ Worked on improvements in Inkscape's support for CMYK color space using ICC color profiles.
+
+=== Scholarship - Inkscape (SVG Fonts) at Google's Summer of Code program ===
+ May 2008 - August 2008 (4 months)
+
+ Implementing typography-related features (SVGFonts) in Inkscape.
+
+=== Free Software developer - UniversalSubtitles.org at Participatory Culture Foundation ===
+ October 2009 - March 2010 (6 months)
+
+ Co-creator and initial developer of UniversalSubtitles.org, a collaborative subtitling tool for online video.
+
+The website is known as Amara.org nowadays. Amara is a featured project of Mozilla Drumbeat, and the Mozilla Foundation has provided development support.
+
+http://amara.org/
+
+=== Mentor for Inkscape project at Google's Summer of Code program ===
+ May 2011 - August 2011 (4 months)
+
+ Acted as mentor during the 2011 edition of the Google Summer of Code program helping a student to develop his improvements in Inkscape related to SVG interactivity and embedded javascript editing.
+
+=== Research on brazilian copyright law and peer2peer networks at GPOPAI - University of São Paulo ===
+ March 2009 - September 2009 (7 months)
+
+ Copyright research developed at GPOPAI-USP, "Research Group for Public Policies Towards Access to Knowledge" at the University of São Paulo. It involved the development of python scripts to monitor anonymous bittorrent users in order to better understand the relations between economics of the entertainment industry and unauthorized sharing of copyrighted works.
+
+=== Software Developer at Rede Colibri ===
+ February 2008 - June 2008 (5 months)
+
+ Software development in python, javascript and HTML/CSS using the Django framework.
+ Product: A realstate-related social network.
+
+== Projects ==
+=== Pense Bem / Smart Start web-based simulator ===
+ February 2011
+ Members: Felipe C. da S. Sanches and Leandro Pereira
+
+ It began as an experiment in reverse engineering and the desire to write an emulator. Ended up with a simulator written in JavaScript, using SVG and HTML5 audio for a classic 90's toy ("PenseBem" was marketed as "SmartStart" in the USA and Canada).
+
+ http://labs.hardinfo.org/pb/
+ https://github.com/lpereira/Pense-Bem
+
+=== Metamáquina 2 ===
+ August 2012
+ Members: Felipe C. da S. Sanches and Rodrigo Rodrigues da Silva
+
+ A fully parametric, low cost, free software compatible and open hardware 3D printer.
+ The mechanical structure of the printer is produced by laser-cutting wood based on vector curves generated from the sources written in the OpenSCAD geometry description language. The design is fully parametric, meaning that by tweaking the parameters and rebuilding the sources one can manufacture a variant of this machine with an arbitrary build volume.
+
+ Approximatelly 130 units of this printer have been manufactured up to now in Brazil and the design is showcased in the OpenSCAD website as a notable use of the scripting CAD language.
+
+ https://github.com/Metamaquina/Metamaquina2
+
+== Honors and Awards ==
+=== Awarded in "Extend Firefox 3.5" contest ===
+ Mozilla
+ November 2009
+
+ Development of the awarded WikiSubs Firefox extension for collaborative subtitling of online video. This extension inspired the early prototypes of the UniversalSubtitles website that I developed during my work at the Participatory Culture Foundation. Also known as Amara.org nowadays.
+
+ https://blog.mozilla.com/extendfirefox/
+
+== Skills & Expertise ==
+* Math
+* Electronics
+* Reverse Engineering
+* Version Control Systems (Git / SVN / etc.)
+* Assembly language (x86 / z80 / m68k / avr8 / etc.)
+* Scalable Vector Graphics (W3C SVG)
+* C/C++, Python, Javascript
+* HTML / CSS
+* Public Speaking / Teaching Skills
+* Software Freedom Activism
+* Embedded Systems
+* Digital Fabrication (3d printers, laser cutters, etc.)
+
+== Languages ==
+* English: Professional working proficiency
+* Portuguese: Native speaker
+
+== Education ==
+=== Escola Politécnica da Universidade de São Paulo ===
+ dropout, electrical engineering with emphasis on telecommunications, 2003 - 2009
+
+== Activities and Societies ==
+=== PoliGNU ===
+ Co-founder of PoliGNU, a free software studies & advocacy group at the engineering school of the University of São Paulo, Brazil
+
+== Free Software Contributions ==
+* Inkscape
+* GNU Project
+* Cairo
+* Universal Subtitles (amara.org)
+* GNOME
+* Firefox
+* OpenSCAD
+* Repetier-Firmware
+* RepRap
+* https://github.com/felipesanches
+
