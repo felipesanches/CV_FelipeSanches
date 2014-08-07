@@ -435,9 +435,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58955435"
-     inkscape:cx="105.818"
-     inkscape:cy="498.28907"
+     inkscape:zoom="1.6675115"
+     inkscape:cx="309.09339"
+     inkscape:cy="502.82071"
      inkscape:document-units="px"
      inkscape:current-layer="g5132"
      showgrid="false"
@@ -454,7 +454,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -657,15 +657,17 @@
            x="9.7499952 12.573628 14.927361 17.044029 18.220896 19.397762 21.044529">English</tspan>
       </text>
       <text
-         y="147.22507"
-         x="33.050617"
-         id="text5203"
-         style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-        <tspan
-           id="tspan5205"
+         xml:space="preserve"
+         style="font-size:13.5466671px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         x="34.526497"
+         y="147.08044"
+         id="text3426"
+         sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="34.460316 36.81406 38.223743 40.34042 41.750118 43.629719 45.276485 46.923244 48.100117 50.216785 52.333454 54.213055 56.448246 59.504719 61.621387 63.031086 65.147758 66.324623 68.441292 71.616295 73.732948 75.142662 77.259331 78.669014 79.845894 81.725487 82.902351 84.78196 86.898628 88.778221">Professionalworkingproficiency</tspan>
-      </text>
+           id="tspan3428"
+           x="34.526497"
+           y="147.08044"
+           style="font-size:4.23333359px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times">Professional working proficiency / Regular speaker at conferences </tspan></text>
       <text
          y="153.29712"
          x="9.7499952"
