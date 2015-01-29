@@ -14,7 +14,7 @@
    height="297mm"
    id="svg5690"
    version="1.1"
-   inkscape:version="0.48+devel r12693"
+   inkscape:version="0.91+devel r13740 custom"
    viewBox="0 0 210 297"
    sodipodi:docname="pag4.svg">
   <defs
@@ -94,10 +94,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.74910814"
-     inkscape:cx="140.5361"
+     inkscape:cx="-90.40519"
      inkscape:cy="695.17209"
      inkscape:document-units="px"
-     inkscape:current-layer="g6373"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1358"
      inkscape:window-height="698"
@@ -131,18 +131,6 @@
          y="24.913103"
          x="9.7499952 14.06094 17.193607 19.155052 21.116495 25.039385 29.935942 35.030052 38.557827 42.480717 47.772381 51.695274 55.223045 59.145943 62.673721 66.596611 69.729279 73.652168 76.784843">FelipeC.daS.Sanches</tspan>
     </text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3557"
-       y="39.237747"
-       x="10.163301"
-       style="font-size:4.59404516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
-         y="39.237747"
-         x="10.163301"
-         sodipodi:role="line"
-         id="tspan3641">juca@members.fsf.org / fsanches@metamaquina.com.br</tspan></text>
     <image
        y="4.717762"
        x="162.66779"
@@ -431,5 +419,22 @@
          id="path6787"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59404516px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none"
+       x="10.163301"
+       y="35.187767"
+       id="text3557"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3641"
+         sodipodi:role="line"
+         x="10.163301"
+         y="35.187767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times;fill:#999999;fill-opacity:1">juca@members.fsf.org</tspan><tspan
+         sodipodi:role="line"
+         x="10.163301"
+         y="40.930325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times;fill:#999999;fill-opacity:1"
+         id="tspan3447">http://github.com/felipesanches/</tspan></text>
   </g>
 </svg>
