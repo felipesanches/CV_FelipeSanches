@@ -115,9 +115,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52263375"
-     inkscape:cx="383.07003"
-     inkscape:cy="487.48692"
+     inkscape:zoom="5.9129259"
+     inkscape:cx="93.263206"
+     inkscape:cy="835.65894"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -327,16 +327,17 @@
          y="105.4127" />
     </g>
     <text
-       y="51.760963"
-       x="9.7499952"
-       id="text3350"
-       style="font-size:5.64444447px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-      <tspan
-         id="tspan3352"
+       xml:space="preserve"
+       style="font-size:12.69999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="9.7832012"
+       y="51.895889"
+       id="text4717"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         y="51.760963"
-         x="9.7499952 13.19875 16.020973 18.843195 21.349329 23.228928 24.798084 27.304218 30.12644 32.632572">Experience</tspan>
-    </text>
+         id="tspan4719"
+         x="9.7832012"
+         y="51.895889"
+         style="font-size:5.64444447px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times">Professional experience</tspan></text>
     <g
        transform="translate(1.1342836,-14.379132)"
        id="g4781">
