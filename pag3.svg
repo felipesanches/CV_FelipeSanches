@@ -14,7 +14,7 @@
    height="297mm"
    id="svg4972"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    viewBox="0 0 210 297"
    sodipodi:docname="pag3.svg">
   <defs
@@ -115,16 +115,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.9129259"
-     inkscape:cx="93.263206"
-     inkscape:cy="835.65894"
+     inkscape:zoom="1.4782315"
+     inkscape:cx="388.26611"
+     inkscape:cy="751.66751"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3630"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1010"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -230,93 +230,72 @@
              x="65.022163 66.431862 68.548531 71.723526 75.017059 77.133728 79.250397 80.427261 82.54393 84.190697">(10months)</tspan>
         </text>
         <text
-           y="103.4979"
-           x="13.578339"
-           id="text3347"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3349"
+           xml:space="preserve"
+           style="font-size:12.54321003px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+           x="13.591851"
+           y="103.50505"
+           id="text3237"
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             y="103.4979"
-             x="13.578339 16.75334 19.107073 20.516773 22.396372 24.043139 25.922739 28.039406 29.216272 31.095873 34.270874 35.917641 38.034306 39.913906 41.793507 43.673107 45.789772 47.669373 50.374474 52.254074 54.370743 56.487408 58.604076 60.839275 62.01614 64.132805 66.249474 68.366142 70.482811 71.892509 73.77211 75.888779 78.00544 81.180443 82.590141 84.469742 86.349342 87.526207 89.642876 91.052574 92.932175 95.637276 96.81414 99.989143 101.39884 103.51551 105.63218 107.27895 109.15855 111.03815 113.15481 115.03442 117.15108 118.32795 120.44461 123.38255 126.43901 128.55568 130.67235 132.78902 133.96588 136.90381 140.90007 142.77968 144.89635 146.30605 148.42271 150.53937 151.71625 154.42134 156.53801 157.94771 160.06438 161.24124 163.12085 165.00044 166.17731 168.29398 170.17358 172.29024 175.46524 176.64211 178.75877 181.69672 183.34348 185.46014 186.86984 188.04671 191.10318 192.98277 194.39249">*PresentedspeachesabouttypographyfeaturesinInkscape,theGoogleWebfontsproject,andthesoftware</tspan>
-        </text>
-        <text
-           y="109.42457"
-           x="13.578339"
-           id="text3351"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3353"
+             id="tspan3239"
+             x="13.591851"
+             y="103.50505"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times">* Presented speaches about typography features in Inkscape, the Google Webfonts project, and the software</tspan><tspan
              sodipodi:role="line"
-             y="109.42457"
-             x="13.578339 14.988039 16.397739 18.27734 20.156939 22.273605 24.390272 28.74214 32.035671 34.15234 36.269005 38.148609 41.442139 43.321739 45.438404 47.673607 48.850475 52.025475 54.142139 55.551842 57.431438 59.548107 61.664772 62.84164 64.721237 67.426338 69.543007 71.422607 73.069374 74.246239 76.362907 79.53791 81.184677 82.361542 84.47821 86.594872 88.474472 90.591141 91.768005 94.473106 95.649971 98.824974 100.47174 102.35134 104.46802 106.3476 107.7573 109.63691 111.87211 113.98877 115.86837 117.51514 118.69201 120.80867 123.98367 125.63044 127.51004 129.62671 131.74338 133.86005 135.03691 137.742 139.62161 141.50121 142.9109 145.02757 146.67435 149.37944 152.43591 153.84561 155.96228 157.84187 159.95854 161.13541 162.31227 164.42894 167.36688 168.77658 171.60022 173.71687 175.59648 177.71315 179.82982 182.53491 185.59138 186.76825 188.17795 190.05756 191.70432">freedommovementtographicsdesignstudentsinseveraldesignschoolsacrossArgentina(BuenosAires,</tspan>
-        </text>
-        <text
-           y="115.35124"
-           x="13.578339"
-           id="text3355"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3357"
+             x="13.591851"
+             y="108.79671"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3257">freedom movement to graphics design students in several design schools across Argentina (Buenos Aires,</tspan><tspan
              sodipodi:role="line"
-             y="115.35124"
-             x="13.578339 16.401972 18.518639 19.928339 22.045006 24.161673 26.278339 29.216272 31.095873 33.21254 36.387539 39.211174 41.327843 42.974609 44.854206 46.263908 47.440773 49.557442 52.025475 53.202339 55.319008 57.435673 59.315273 60.492138 62.608807 64.488403 66.956444 70.012909 71.189774 72.366638 75.541641 78.598106 80.477707 82.594376 85.53231 88.355942 89.76564 91.882309 93.529076 95.175842 96.352707 98.232307 100.34898 103.52398 105.40357 107.52024 110.69524 113.04897 114.92857 117.04524 118.22211 121.3971 122.80681 126.10034 128.21701 130.0966 131.27347 132.45033 134.32994 135.73964 136.9165">CordobaandRosário)togetherwithDaveCrosslandandPabloImpallari.</tspan>
-        </text>
-        <text
-           y="127.20457"
-           x="13.578339"
-           id="text3359"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3361"
+             x="13.591851"
+             y="114.08839"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3259">Cordoba and Rosário) together with Dave Crossland and Pablo Impallari.</tspan><tspan
              sodipodi:role="line"
-             y="127.20457"
-             x="13.578339 16.75334 19.107073 20.986673 22.16354 24.043139 26.159807 28.039406 30.744507 31.921371 35.096371 36.273239 39.566772 41.683441 43.09314 45.209808 47.326473 50.264404 53.320873 56.377342 59.433804 63.197239 65.783806 67.900475 68.662476 71.367577 73.721306 75.837975 77.717575 78.89444 81.129639 83.953278 85.83287 87.712471 89.82914 91.238838 93.355507 95.235107 97.70314 99.582748 101.69941 104.8744 106.99107 108.87067 110.98734 112.86694 114.04381 116.16048 118.27714 121.57067 123.45028 125.56694 127.80214 129.91881 132.38684 133.56371 135.68037 138.61832 141.67477 144.73125 147.7877 151.55115 155.19604 157.54977 159.42938 160.83908 162.71867 164.59828 166.71495 168.59454 170.47414 172.12091 174.35611 176.2357 178.35237 180.46904 181.6459 182.82277 184.70238 186.58197 187.75883 188.93571 191.05237 193.16904">*PatchestoimproveGNOME3'sShellRecorderanddevelopmentoftheGNOMEScreencastapplication.</tspan>
-        </text>
-        <text
-           y="139.05791"
-           x="13.578339"
-           id="text3363"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3365"
+             x="13.591851"
+             y="119.38005"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3261" /><tspan
              sodipodi:role="line"
-             y="139.05791"
-             x="13.578339 16.75334 19.809805 21.689405 23.806072 25.685673 26.862539 28.979206 31.095873 34.389408 36.269005 38.385674 40.620872 42.737541 45.205574 46.382439 48.499107 50.615772 52.732441 54.849106 56.258808 58.138405 60.255074 62.371738 65.546738 66.956444 68.836044 70.012909 71.892509 73.069374 74.948975 78.123978 79.533676 81.413269 83.292877 84.469742 86.586411 87.996109 89.87571 92.580811 93.757675 96.932678 98.342377 100.45905 102.57571 104.22247 106.10207 107.98167 110.09834 113.03628 114.68304 116.79971 118.67931 121.85432 123.73392 126.43901 127.61588 129.73254 132.67049 134.78716 136.66673 140.78154 144.54497 146.42458 148.30417 149.95094 152.06761 153.47731 155.3569 158.65044 160.53004 162.64671 164.88191 167.46848 169.58514 171.70181 173.93701 175.11388 177.23055 178.40741 179.81711 181.93378 184.05045 186.16711 188.04671 189.92632 193.10132 194.27817">*DevelopmentoftypographyrelatedfeaturesinInkscapesuchasthenewMeasurementToolintroducedin</tspan>
-        </text>
-        <text
-           y="144.98457"
-           x="13.578339"
-           id="text3367"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3369"
+             x="13.591851"
+             y="124.67172"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3255">* Patches to improve GNOME3's Shell Recorder and prototyping of a screencasting application for GNOME.</tspan><tspan
              sodipodi:role="line"
-             y="144.98457"
-             x="13.578339 14.988039 17.104706 19.221373 20.868139 22.74774 24.627338 26.744005 29.68194 31.798605 32.856937 34.973606 38.148609 40.616638 42.733307 43.910175 45.08704 47.203709 48.380573 49.557442 50.734306 51.911175 53.088039 55.204708 56.614407 58.494007 60.610676 62.02037 63.899975 66.01664 68.133308 69.310173 71.189774 72.83654 75.893005 78.009674 79.419373 80.596245 82.712906 83.77124 85.887909 87.297607 89.414276 90.591141 92.707809 93.884674 96.001343 98.118011 99.294876 101.17448 103.29115 104.46802 105.8777 107.99437 109.17123 110.34811 112.46478 114.58144 116.22821 118.1078 119.9874 122.10407 123.98367 125.39337 128.6869 130.56651 132.44611 134.09288 136.20955 137.61925 139.49884 140.90854 142.08542 144.20207 146.31874 147.49561 148.90532 151.02197 152.90158 154.07845 155.72522 157.13492 159.01451 161.13118 162.54088 164.65755 166.77422 168.89088 170.77048 171.94734 174.88527">Inkscape0.49(http://libregraphicsworld.org/blog/entry/inkscape-measure-tool-gets-an-update)</tspan>
-        </text>
-        <text
-           y="156.83791"
-           x="13.578339"
-           id="text3371"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3373"
+             x="13.591851"
+             y="129.96338"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3241" /><tspan
              sodipodi:role="line"
-             y="156.83791"
-             x="13.578339 16.75334 19.809805 21.689405 23.806072 25.685673 26.862539 28.979206 31.095873 34.389408 36.269005 38.385674 40.620872 42.737541 45.205574 48.143509 50.497242 51.674107 53.083809 54.963406 56.373108 58.489773 61.664772 63.544376 65.661041 67.77771 69.187408 71.304077 74.479073 75.888779 78.00544 80.473473 82.590141 84.706802 87.763275 89.879936 91.056808 93.17347 95.05307 97.169739 98.346603 100.46327 103.63828 107.63454 109.51414 111.63081 113.98454 116.10121 118.21787 119.39474 122.09984">*DevelopmentofaFirefoxadd-onfordownloadingWebFonts(</tspan>
-        </text>
-        <text
-           y="162.76457"
-           x="13.578339"
-           id="text3375"
-           style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-          <tspan
-             id="tspan3377-8"
+             x="13.591851"
+             y="135.25505"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3243">* Development of typography related features in Inkscape such as the new Measurement Tool introduced in</tspan><tspan
              sodipodi:role="line"
-             y="162.76457"
-             x="13.578339 15.695005 16.871872 18.048738 20.165405 21.812172 22.98904 24.165905 25.342773 27.222372 29.339039 31.455706 33.335308 34.393639 36.510307 38.626972 40.743641 42.860306 44.03717 45.916775 46.975105 48.854706 50.971375 54.264908 55.441772 57.558441 58.735306 61.791775 63.671375 65.78804 67.197739 68.607445 70.724113 72.840775 74.017639 75.427345 77.544014 79.660675 82.71714 84.833809 86.010681 88.127342 90.006943 92.123604 94.003204 95.41291 97.648109">https://code.google.com/p/web-font-downloader/)</tspan>
-        </text>
+             x="13.591851"
+             y="140.54672"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3247">Inkscape 0.49 ( http://libregraphicsworld.org/blog/entry/inkscape-measure-tool-gets-an-update ) and</tspan><tspan
+             sodipodi:role="line"
+             x="13.591851"
+             y="145.83839"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3263">released in Inkscape 0.91.</tspan><tspan
+             sodipodi:role="line"
+             x="13.591851"
+             y="151.13005"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3249" /><tspan
+             sodipodi:role="line"
+             x="13.591851"
+             y="156.42172"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3251">* Prototyping of a Firefox add-on for downloading WebFonts</tspan><tspan
+             sodipodi:role="line"
+             x="13.591851"
+             y="161.71339"
+             style="font-size:4.23333359px;fill:#666666;fill-opacity:1;font-family:Times;-inkscape-font-specification:Times"
+             id="tspan3245">( https://code.google.com/p/web-font-downloader/ )</tspan></text>
       </g>
       <image
          width="28.274584"
