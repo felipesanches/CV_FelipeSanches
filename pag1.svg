@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91+devel r13740 custom"
    viewBox="0 0 210 297"
    sodipodi:docname="pag1.svg">
   <defs
@@ -49,14 +49,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0452675"
-     inkscape:cx="351.78528"
-     inkscape:cy="784.942"
+     inkscape:zoom="1.4782315"
+     inkscape:cx="363.86449"
+     inkscape:cy="643.3087"
      inkscape:document-units="px"
      inkscape:current-layer="g3308"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1010"
+     inkscape:window-width="1358"
+     inkscape:window-height="698"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -82,82 +82,69 @@
        id="g3308">
       <text
          id="text3326"
-         style="font-size:16px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman"
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Times;-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="36"
-         y="-654.85229">
+         y="-666.33258">
         <tspan
            id="tspan3328"
            sodipodi:role="line"
-           y="-654.85229"
+           y="-666.33258"
            x="36 44.896 52.896 65.344002 77.792 84.895996 90.223999">Summary</tspan>
       </text>
       <text
          id="text3334"
          style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Times;-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
-         x="36"
-         y="-621.39996">
+         x="74.746063"
+         y="-645.79559">
         <tspan
            sodipodi:role="line"
-           x="36"
-           y="-621.39996"
+           x="74.746063"
+           y="-645.79559"
            style="font-size:14px"
            id="tspan3422">Software developer / hardware designer.</tspan>
         <tspan
            sodipodi:role="line"
-           x="36"
-           y="-603.89996"
+           x="74.746063"
+           y="-628.29559"
            style="font-size:14px"
            id="tspan3426">I'm a hacker commited to the values of the software freedom movement.</tspan>
       </text>
       <text
          sodipodi:linespacing="125%"
          id="text3557-2"
-         y="-570.6026"
-         x="35.780193"
+         y="-607.19604"
+         x="36.497711"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.02922249px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"
          transform="scale(1,-1)"><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-570.6026"
-           x="35.780193"
+           y="-607.19604"
+           x="36.497711"
            sodipodi:role="line"
            id="tspan3688"><tspan
    id="tspan3428"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Skills:</tspan> libre software development and advocacy, pcb design, digital electronics,</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Skills:</tspan> IT training &amp; education, libre software development and advocacy, pcb design,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-552.45325"
-           x="35.780193"
+           y="-589.04669"
+           x="36.497711"
            sodipodi:role="line"
-           id="tspan3445">reverse engineering, device driver development, digital fabrication,</tspan><tspan
+           id="tspan3445">digital electronics, reverse engineering, device driver development, digital fabrication,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-534.95325"
-           x="35.780193"
+           y="-571.54669"
+           x="36.497711"
            sodipodi:role="line"
-           id="tspan3439">open standards, public speaking, graphic design, IT training &amp; education.</tspan></text>
+           id="tspan3439">open standards, public speaking, graphic design.</tspan></text>
       <g
          id="g3346"
-         transform="translate(0,-42.188542)">
+         transform="translate(0,1.5801584)">
         <path
            inkscape:connector-curvature="0"
            id="path3348"
-           style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 36,556.864 540,0" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="36.094128"
-         y="-486.39319"
-         id="text4717"
-         sodipodi:linespacing="125%"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan4719"
-           x="36.094128"
-           y="-486.39319"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Times;-inkscape-font-specification:Times;fill:#999999;fill-opacity:1">Professional experience</tspan></text>
       <g
          id="g3462">
         <text
@@ -209,7 +196,7 @@
       </g>
       <g
          id="g4740"
-         transform="translate(0,-23.338699)">
+         transform="translate(0,-82.059263)">
         <text
            sodipodi:linespacing="125%"
            id="text3449"
@@ -263,7 +250,7 @@
                id="flowPara4712">* Daily Open Hardware contributions to the project files on GitHub (<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Times;-inkscape-font-specification:'Times Bold'"
    id="flowSpan4710"><flowSpan
-   style="-inkscape-font-specification:Times;font-family:Times;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times"
    id="flowSpan4762">https://github.com/portalmod/</flowSpan>)</flowSpan></flowPara></flowRoot>        </g>
         <text
            transform="scale(1,-1)"
@@ -290,7 +277,7 @@
       </g>
       <g
          id="g4603"
-         transform="translate(0,33.485959)">
+         transform="translate(0,1.9150885)">
         <image
            transform="scale(1,-1)"
            width="83.17289"
@@ -356,6 +343,106 @@
              x="113.83327"
              id="tspan4550"
              sodipodi:role="line">October 2011 - October 2014</tspan></text>
+      </g>
+      <g
+         transform="translate(0,80.701634)"
+         id="g3520">
+        <text
+           transform="scale(1,-1)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;line-height:125%;font-family:Times;-inkscape-font-specification:'Times Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="114.55079"
+           y="-451.28253"
+           id="text3522"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3524"
+             x="114.55079"
+             y="-451.28253"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Libre Software development   at  Metapolator - Design Fonts and Families Faster</tspan><tspan
+             id="tspan3526"
+             sodipodi:role="line"
+             x="114.55079"
+             y="-437.80753"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">http://metapolator.com/</tspan></text>
+        <g
+           id="g3528"
+           transform="matrix(0.9,0,0,0.9,81.887973,-24.545874)">
+          <flowRoot
+             transform="matrix(0.88888888,0,0,-0.88888888,-246.13819,816.15375)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+             id="flowRoot3530"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3532"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Times;-inkscape-font-specification:Times;fill:#666666;fill-opacity:1"
+                 y="367.08386"
+                 x="328.77124"
+                 height="226.62216"
+                 width="593.953"
+                 id="rect3534" /></flowRegion><flowPara
+               id="flowPara3552"
+               style="font-size:13.75px;fill:#666666;fill-opacity:1">Software development for the Metapolator project, a web application that helps</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3761">type designers working on parametric type design.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3612">* Import and Export routines supporting the Zipped UFO file format.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3614">* OpenType.js integration to also handle the OTF file format.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3616" /><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3618">Further project info at:</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3620">* https://github.com/metapolator</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara3622">* http://metapolator.com/</flowPara></flowRoot>        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3558"
+           y="-422.93613"
+           x="113.83327"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.82629871px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           transform="scale(1,-1)"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times;fill:#000000;fill-opacity:1"
+             y="-422.93613"
+             x="113.83327"
+             id="tspan3560"
+             sodipodi:role="line">Since April 2015</tspan></text>
+        <g
+           id="g3734"
+           transform="matrix(0.27111639,0,0,-0.27111639,25.232527,464.38481)">
+          <path
+             id="path3736"
+             d="m 227.536,10.893 -44.88,26.213 0.396,98.1 34.157,-59.972 c -5.163,-4.767 -6.354,-12.312 -2.78,-18.667 4.369,-7.149 13.503,-9.93 20.652,-5.561 7.547,3.972 9.93,13.504 5.958,20.654 -3.575,6.354 -11.519,9.134 -18.271,6.751 l -34.156,59.972 0,0.398 59.179,-35.348 25.021,-14.695 -0.397,-52.03 -44.879,-25.815 z"
+             inkscape:connector-curvature="0"
+             style="fill:#f01616" />
+          <path
+             id="path3738"
+             d="m 302.998,152.682 -45.277,-25.816 -84.597,49.249 69.106,-0.398 c 1.59,-6.752 7.547,-11.517 14.696,-11.517 8.341,0 15.489,6.752 15.489,15.092 0,8.341 -6.752,15.093 -15.092,15.489 -7.547,0 -13.901,-5.561 -15.094,-12.709 l -69.106,0.396 59.973,34.156 25.021,14.299 44.88,-26.213 0,-52.028 z"
+             inkscape:connector-curvature="0"
+             style="fill:#515151" />
+          <path
+             id="path3740"
+             d="m 254.94,288.911 0,-52.029 -84.597,-49.248 34.554,59.973 c 6.752,-1.986 13.901,0.794 17.476,6.751 4.369,7.546 1.588,16.682 -5.561,21.05 -7.148,4.369 -16.682,1.589 -21.05,-5.561 -3.575,-6.354 -1.986,-14.695 3.573,-19.063 l -34.553,-59.973 0,69.107 0.397,28.993 44.88,25.816 44.881,-25.816 z"
+             inkscape:connector-curvature="0"
+             style="fill:#515151" />
+          <path
+             id="path3742"
+             d="m 113.151,315.124 45.277,-26.213 0.398,-97.703 -34.951,59.575 c 5.163,4.767 6.354,12.71 2.78,18.667 -4.369,7.148 -13.504,9.93 -21.05,5.561 -7.149,-4.369 -9.532,-13.504 -5.56,-20.653 3.971,-6.751 11.517,-9.135 18.269,-6.751 l 34.951,-59.973 -59.576,34.552 -25.418,14.696 0,52.029 44.88,26.213 z"
+             inkscape:connector-curvature="0"
+             style="fill:#515151" />
+          <path
+             id="path3744"
+             d="m 19.816,204.711 44.881,26.213 85.39,-48.455 -69.107,0 c -1.588,6.355 -7.943,11.518 -15.092,11.518 -8.341,0 -15.093,-7.148 -15.093,-15.488 0,-8.342 7.15,-15.094 15.49,-15.094 7.149,0 13.504,5.561 14.695,12.313 l 69.107,0.397 -59.575,-34.553 -25.021,-14.298 -45.278,25.815 -0.397,51.632 z"
+             inkscape:connector-curvature="0"
+             style="fill:#515151" />
+          <path
+             id="path3746"
+             d="m 69.065,69.276 -0.397,52.029 84.2,49.647 -34.157,-59.973 c -6.354,1.589 -13.901,-1.191 -17.078,-7.148 -4.369,-7.547 -1.589,-16.682 5.56,-21.051 7.149,-3.971 16.682,-1.588 20.653,5.958 3.972,6.354 2.383,14.298 -3.177,19.063 l 34.157,59.973 0,-68.71 0,-28.993 -44.484,-26.61 -45.277,25.815 z"
+             inkscape:connector-curvature="0"
+             style="fill:#515151" />
+        </g>
       </g>
     </g>
   </g>
