@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 210 297"
    sodipodi:docname="pag1.svg">
   <defs
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4782315"
-     inkscape:cx="363.86449"
-     inkscape:cy="643.3087"
+     inkscape:zoom="1.0452675"
+     inkscape:cx="208.92264"
+     inkscape:cy="525.43808"
      inkscape:document-units="px"
      inkscape:current-layer="g3308"
      showgrid="false"
@@ -97,53 +97,53 @@
          style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Times;-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="74.746063"
-         y="-645.79559">
+         y="-641.29559">
         <tspan
            sodipodi:role="line"
            x="74.746063"
-           y="-645.79559"
+           y="-641.29559"
            style="font-size:14px"
            id="tspan3422">Software developer / hardware designer.</tspan>
         <tspan
            sodipodi:role="line"
            x="74.746063"
-           y="-628.29559"
+           y="-623.79559"
            style="font-size:14px"
            id="tspan3426">I'm a hacker commited to the values of the software freedom movement.</tspan>
       </text>
       <text
          sodipodi:linespacing="125%"
          id="text3557-2"
-         y="-607.19604"
+         y="-598.19604"
          x="36.497711"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.02922249px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"
          transform="scale(1,-1)"><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-607.19604"
+           y="-598.19604"
            x="36.497711"
            sodipodi:role="line"
            id="tspan3688"><tspan
    id="tspan3428"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Skills:</tspan> IT training &amp; education, libre software development and advocacy, pcb design,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-589.04669"
+           y="-580.04669"
            x="36.497711"
            sodipodi:role="line"
            id="tspan3445">digital electronics, reverse engineering, device driver development, digital fabrication,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
-           y="-571.54669"
+           y="-562.54669"
            x="36.497711"
            sodipodi:role="line"
-           id="tspan3439">open standards, public speaking, graphic design.</tspan></text>
+           id="tspan3439">open standards, public speaking, 3d modelling, graphic design.</tspan></text>
       <g
          id="g3346"
-         transform="translate(0,1.5801584)">
+         transform="translate(0,-4.4198415)">
         <path
            inkscape:connector-curvature="0"
            id="path3348"
            style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 36,556.864 540,0" />
+           d="M 36,556.864 H 576" />
       </g>
       <g
          id="g3462">
@@ -196,7 +196,7 @@
       </g>
       <g
          id="g4740"
-         transform="translate(0,-82.059263)">
+         transform="translate(0,-88.809242)">
         <text
            sodipodi:linespacing="125%"
            id="text3449"
@@ -237,21 +237,19 @@
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara4694" /><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara4696">Main attributions:</flowPara><flowPara
-               style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara4698">* Schematic design with Eeschema (KiCAD)</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara4700">* PCB layout with pcbnew (KiCAD)</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara4702">* Iterative PCB prototyping at the company's electronics lab (proof-of-concepts / validation of Release Candidate hardware revisions)</flowPara><flowPara
+               id="flowPara4702">* Iterative PCB prototyping at the company's electronics lab (proof-of-concepts / validation</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara101">of Release Candidate hardware revisions)</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara4704">* Embedded Linux device driver development (ALSA System on Chip drivers)</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara4712">* Daily Open Hardware contributions to the project files on GitHub (<flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Times;-inkscape-font-specification:'Times Bold'"
-   id="flowSpan4710"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times"
-   id="flowSpan4762">https://github.com/portalmod/</flowSpan>)</flowSpan></flowPara></flowRoot>        </g>
+               id="flowPara107">   &lt;https://github.com/moddevices/linux-sunxi/commits/mod-sunxi-3.4-fsanches&gt;</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara98">* Daily Open Hardware contributions to the project files on GitHub &lt;https://github.com/moddevices&gt;</flowPara></flowRoot>        </g>
         <text
            transform="scale(1,-1)"
            xml:space="preserve"
@@ -277,7 +275,7 @@
       </g>
       <g
          id="g4603"
-         transform="translate(0,1.9150885)">
+         transform="translate(0,-8.5849114)">
         <image
            transform="scale(1,-1)"
            width="83.17289"
@@ -315,7 +313,9 @@
                  width="593.953"
                  id="rect4528" /></flowRegion><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara4530">We're a 3D printing business focused on popularizing rapid prototyping machines in Brazil. We're fully commited to free software and open hardware design.</flowPara><flowPara
+               id="flowPara4530">We're a 3D printing business focused on popularizing rapid prototyping machines in Brazil.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara109">We're fully commited to free software and open hardware design.</flowPara><flowPara
                id="flowPara4532"
                style="font-size:13.75px;fill:#666666;fill-opacity:1" /><flowPara
                id="flowPara4534"
@@ -326,8 +326,10 @@
                style="font-size:13.75px;fill:#666666;fill-opacity:1">* Regular contributions to upstream free software projects such as OpenSCAD and Repetier-Firmware.</flowPara><flowPara
                id="flowPara4540"
                style="font-size:13.75px;fill:#666666;fill-opacity:1">* Management of the Metamáquina 2 production line.</flowPara><flowPara
-               id="flowPara4542"
-               style="font-size:13.75px;fill:#666666;fill-opacity:1">* Lecturer in several educational workshops covering topics such as 3D modelling, 3D printers maintainence and operation, free software development tools, hacker ethics and open innovation. Workshops also included guided assembly and educational exploration of DIY hardware kits such as the SpokePOV and the Uzebox 8-bit video-game, reverse engineering techniques and learning by tinkering in general.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara99">* Lecturer in several educational workshops covering topics such as 3D modelling, 3D printers maintainence and operation, free software development tools, hacker ethics and open innovation. Workshops also included guided assembly and educational exploration of DIY hardware kits,</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara102">reverse engineering techniques and learning by tinkering in general.</flowPara><flowPara
                id="flowPara4544"
                style="font-size:13.75px;fill:#666666;fill-opacity:1">* Tutorship at extra-curricular STEM classes at the Saint Paul's british school in São Paulo, Brazil.</flowPara></flowRoot>        </g>
         <text
@@ -345,7 +347,7 @@
              sodipodi:role="line">October 2011 - October 2014</tspan></text>
       </g>
       <g
-         transform="translate(0,80.701634)"
+         transform="translate(0,77.701694)"
          id="g3520">
         <text
            transform="scale(1,-1)"
@@ -414,32 +416,32 @@
            transform="matrix(0.27111639,0,0,-0.27111639,25.232527,464.38481)">
           <path
              id="path3736"
-             d="m 227.536,10.893 -44.88,26.213 0.396,98.1 34.157,-59.972 c -5.163,-4.767 -6.354,-12.312 -2.78,-18.667 4.369,-7.149 13.503,-9.93 20.652,-5.561 7.547,3.972 9.93,13.504 5.958,20.654 -3.575,6.354 -11.519,9.134 -18.271,6.751 l -34.156,59.972 0,0.398 59.179,-35.348 25.021,-14.695 -0.397,-52.03 -44.879,-25.815 z"
+             d="m 227.536,10.893 -44.88,26.213 0.396,98.1 34.157,-59.972 c -5.163,-4.767 -6.354,-12.312 -2.78,-18.667 4.369,-7.149 13.503,-9.93 20.652,-5.561 7.547,3.972 9.93,13.504 5.958,20.654 -3.575,6.354 -11.519,9.134 -18.271,6.751 l -34.156,59.972 v 0.398 l 59.179,-35.348 25.021,-14.695 -0.397,-52.03 z"
              inkscape:connector-curvature="0"
              style="fill:#f01616" />
           <path
              id="path3738"
-             d="m 302.998,152.682 -45.277,-25.816 -84.597,49.249 69.106,-0.398 c 1.59,-6.752 7.547,-11.517 14.696,-11.517 8.341,0 15.489,6.752 15.489,15.092 0,8.341 -6.752,15.093 -15.092,15.489 -7.547,0 -13.901,-5.561 -15.094,-12.709 l -69.106,0.396 59.973,34.156 25.021,14.299 44.88,-26.213 0,-52.028 z"
+             d="m 302.998,152.682 -45.277,-25.816 -84.597,49.249 69.106,-0.398 c 1.59,-6.752 7.547,-11.517 14.696,-11.517 8.341,0 15.489,6.752 15.489,15.092 0,8.341 -6.752,15.093 -15.092,15.489 -7.547,0 -13.901,-5.561 -15.094,-12.709 l -69.106,0.396 59.973,34.156 25.021,14.299 44.88,-26.213 v -52.028 z"
              inkscape:connector-curvature="0"
              style="fill:#515151" />
           <path
              id="path3740"
-             d="m 254.94,288.911 0,-52.029 -84.597,-49.248 34.554,59.973 c 6.752,-1.986 13.901,0.794 17.476,6.751 4.369,7.546 1.588,16.682 -5.561,21.05 -7.148,4.369 -16.682,1.589 -21.05,-5.561 -3.575,-6.354 -1.986,-14.695 3.573,-19.063 l -34.553,-59.973 0,69.107 0.397,28.993 44.88,25.816 44.881,-25.816 z"
+             d="m 254.94,288.911 v -52.029 l -84.597,-49.248 34.554,59.973 c 6.752,-1.986 13.901,0.794 17.476,6.751 4.369,7.546 1.588,16.682 -5.561,21.05 -7.148,4.369 -16.682,1.589 -21.05,-5.561 -3.575,-6.354 -1.986,-14.695 3.573,-19.063 l -34.553,-59.973 v 69.107 l 0.397,28.993 44.88,25.816 z"
              inkscape:connector-curvature="0"
              style="fill:#515151" />
           <path
              id="path3742"
-             d="m 113.151,315.124 45.277,-26.213 0.398,-97.703 -34.951,59.575 c 5.163,4.767 6.354,12.71 2.78,18.667 -4.369,7.148 -13.504,9.93 -21.05,5.561 -7.149,-4.369 -9.532,-13.504 -5.56,-20.653 3.971,-6.751 11.517,-9.135 18.269,-6.751 l 34.951,-59.973 -59.576,34.552 -25.418,14.696 0,52.029 44.88,26.213 z"
+             d="m 113.151,315.124 45.277,-26.213 0.398,-97.703 -34.951,59.575 c 5.163,4.767 6.354,12.71 2.78,18.667 -4.369,7.148 -13.504,9.93 -21.05,5.561 -7.149,-4.369 -9.532,-13.504 -5.56,-20.653 3.971,-6.751 11.517,-9.135 18.269,-6.751 l 34.951,-59.973 -59.576,34.552 -25.418,14.696 v 52.029 z"
              inkscape:connector-curvature="0"
              style="fill:#515151" />
           <path
              id="path3744"
-             d="m 19.816,204.711 44.881,26.213 85.39,-48.455 -69.107,0 c -1.588,6.355 -7.943,11.518 -15.092,11.518 -8.341,0 -15.093,-7.148 -15.093,-15.488 0,-8.342 7.15,-15.094 15.49,-15.094 7.149,0 13.504,5.561 14.695,12.313 l 69.107,0.397 -59.575,-34.553 -25.021,-14.298 -45.278,25.815 -0.397,51.632 z"
+             d="m 19.816,204.711 44.881,26.213 85.39,-48.455 H 80.98 c -1.588,6.355 -7.943,11.518 -15.092,11.518 -8.341,0 -15.093,-7.148 -15.093,-15.488 0,-8.342 7.15,-15.094 15.49,-15.094 7.149,0 13.504,5.561 14.695,12.313 l 69.107,0.397 -59.575,-34.553 -25.021,-14.298 -45.278,25.815 z"
              inkscape:connector-curvature="0"
              style="fill:#515151" />
           <path
              id="path3746"
-             d="m 69.065,69.276 -0.397,52.029 84.2,49.647 -34.157,-59.973 c -6.354,1.589 -13.901,-1.191 -17.078,-7.148 -4.369,-7.547 -1.589,-16.682 5.56,-21.051 7.149,-3.971 16.682,-1.588 20.653,5.958 3.972,6.354 2.383,14.298 -3.177,19.063 l 34.157,59.973 0,-68.71 0,-28.993 -44.484,-26.61 -45.277,25.815 z"
+             d="m 69.065,69.276 -0.397,52.029 84.2,49.647 -34.157,-59.973 c -6.354,1.589 -13.901,-1.191 -17.078,-7.148 -4.369,-7.547 -1.589,-16.682 5.56,-21.051 7.149,-3.971 16.682,-1.588 20.653,5.958 3.972,6.354 2.383,14.298 -3.177,19.063 l 34.157,59.973 V 99.064 70.071 l -44.484,-26.61 z"
              inkscape:connector-curvature="0"
              style="fill:#515151" />
         </g>
