@@ -15,7 +15,7 @@
    height="297mm"
    id="svg5690"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 210 297"
    sodipodi:docname="pag6.svg">
   <defs
@@ -435,11 +435,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="202.58245"
-     inkscape:cy="756.17646"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="377.13505"
+     inkscape:cy="387.04488"
      inkscape:document-units="px"
-     inkscape:current-layer="g6307"
+     inkscape:current-layer="g6072"
      showgrid="false"
      inkscape:window-width="1358"
      inkscape:window-height="698"
@@ -733,17 +733,6 @@
                y="243.4505"
                x="9.7499952 12.573628 14.220395 16.099995 18.216661 19.393528 22.568527 25.155096 27.271763 28.448629 29.625496 31.035194 32.914795 34.794395 37.148129 38.324997 40.204597 43.379597 45.73333 48.908329 51.964798 54.318531 55.495396 57.612061 59.491665 61.371265 63.018032 64.194901 66.54863 68.665298 71.019028 73.956963 76.310692 79.248627 81.602364 83.719032 86.894028 89.480598 91.59726 93.950996 95.127869">EscolaPolitécnicadaUniversidadedeSãoPaulo</tspan>
           </text>
-          <text
-             y="248.69136"
-             x="9.7499952"
-             id="text5883"
-             style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman">
-            <tspan
-               id="tspan5885"
-               sodipodi:role="line"
-               y="248.69136"
-               x="9.7499952 11.866662 13.276361 15.393028 17.509695 19.626362 21.743029 22.919895 25.036562 26.916162 28.093029 29.97263 31.85223 33.029095 34.438797 35.615662 37.495262 39.374863 41.610062 43.489662 45.606331 47.722996 48.89986 51.016529 52.89613 54.77573 56.185432 57.362297 59.478966 62.653965 65.710434 66.887299 68.064163 71.239166 73.118767 76.4123 78.528969 80.64563 82.52523 84.171997 85.348869 88.053963 90.170631 93.345634 94.522499 96.4021 97.578964 99.458565 101.33817 103.45483 106.74836 110.04189 112.15856 114.27523 115.4521 117.3317 119.2113 120.38816 121.56503 123.68169 125.79836 127.44513 129.5618 131.67847 133.79514 135.9118 139.08679 141.55482 143.67149 145.78816 147.90483">dropout,electricalengineeringwithemphasisontelecommunications,2003-2009</tspan>
-          </text>
           <g
              inkscape:label="Capa 1"
              id="layer1-91"
@@ -828,36 +817,50 @@
                x="9.7499952"
                y="281.88303" />
           </text>
-          <g
-             id="g6531">
-            <text
-               style="font-size:4.23333359px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times;-inkscape-font-specification:Times-Roman"
-               id="text5887"
+          <text
+             y="273.741"
+             x="9.7499952"
+             id="text5887"
+             style="font-variant:normal;font-weight:normal;font-size:4.23333359px;font-family:Times;-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Times;-inkscape-font-specification:'Times Bold'"
+               sodipodi:role="line"
+               id="tspan5174"
                x="9.7499952"
-               y="273.741">
-              <tspan
-                 y="273.741"
-                 x="9.7499952"
-                 id="tspan5174"
-                 sodipodi:role="line"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times Bold">Activities and Societies:</tspan>
-            </text>
-            <text
-               sodipodi:linespacing="125%"
-               id="text6525"
-               y="280.61133"
+               y="273.741">Activities and Societies:</tspan>
+          </text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31172848px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             x="9.9524307"
+             y="280.61133"
+             id="text6525"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6527"
                x="9.9524307"
-               style="font-size:4.31172848px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times;-inkscape-font-specification:Times"
-               xml:space="preserve"><tspan
-                 y="280.61133"
-                 x="9.9524307"
-                 id="tspan6527"
-                 sodipodi:role="line">Co-founder of PoliGNU, a free software studies &amp; advocacy group</tspan><tspan
-                 id="tspan6529"
-                 y="286.00098"
-                 x="9.9524307"
-                 sodipodi:role="line">at the engineering school of the University of São Paulo, Brazil</tspan></text>
-          </g>
+               y="280.61133">Co-founder of PoliGNU, a free software studies &amp; advocacy group</tspan><tspan
+               sodipodi:role="line"
+               x="9.9524307"
+               y="286.00098"
+               id="tspan6529">at the engineering school of the University of São Paulo, Brazil</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text158"
+             y="250.45409"
+             x="9.7453384"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.24643183px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98485601"
+             xml:space="preserve"><tspan
+               id="tspan156"
+               y="250.45409"
+               x="9.7453384"
+               sodipodi:role="line"
+               style="stroke-width:0.98485601">Electrical engineering with emphasis on</tspan><tspan
+               y="255.76213"
+               x="9.7453384"
+               sodipodi:role="line"
+               style="stroke-width:0.98485601"
+               id="tspan150">telecommunications (incomplete), 2003 - 2009</tspan></text>
         </g>
         <image
            y="238.68172"
