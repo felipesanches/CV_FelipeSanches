@@ -49,11 +49,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0452675"
-     inkscape:cx="208.92264"
-     inkscape:cy="525.43808"
+     inkscape:zoom="1.4363315"
+     inkscape:cx="439.79437"
+     inkscape:cy="656.0726"
      inkscape:document-units="px"
-     inkscape:current-layer="g3308"
+     inkscape:current-layer="g3520"
      showgrid="false"
      inkscape:window-width="1358"
      inkscape:window-height="698"
@@ -97,17 +97,17 @@
          style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Times;-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="74.746063"
-         y="-641.29559">
+         y="-644.42859">
         <tspan
            sodipodi:role="line"
            x="74.746063"
-           y="-641.29559"
+           y="-644.42859"
            style="font-size:14px"
            id="tspan3422">Software developer / hardware designer.</tspan>
         <tspan
            sodipodi:role="line"
            x="74.746063"
-           y="-623.79559"
+           y="-626.92859"
            style="font-size:14px"
            id="tspan3426">I'm a hacker commited to the values of the software freedom movement.</tspan>
       </text>
@@ -125,17 +125,17 @@
            sodipodi:role="line"
            id="tspan3688"><tspan
    id="tspan3428"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Skills:</tspan> IT training &amp; education, libre software development and advocacy, pcb design,</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Skills:</tspan> IT training &amp; education, libre software development and advocacy, copyright research,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
            y="-580.04669"
            x="36.497711"
            sodipodi:role="line"
-           id="tspan3445">digital electronics, reverse engineering, device driver development, digital fabrication,</tspan><tspan
+           id="tspan3445">pcb design, digital electronics, reverse engineering, device driver development, digital fabrication,</tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#000000;fill-opacity:1"
            y="-562.54669"
            x="36.497711"
            sodipodi:role="line"
-           id="tspan3439">open standards, public speaking, 3d modelling, graphic design.</tspan></text>
+           id="tspan3439">open standards, public speaking, technical writing, 3d modelling, graphic design.</tspan></text>
       <g
          id="g3346"
          transform="translate(0,-4.4198415)">
@@ -196,7 +196,7 @@
       </g>
       <g
          id="g4740"
-         transform="translate(0,-88.809242)">
+         transform="translate(0,-89.945961)">
         <text
            sodipodi:linespacing="125%"
            id="text3449"
@@ -275,7 +275,7 @@
       </g>
       <g
          id="g4603"
-         transform="translate(0,-8.5849114)">
+         transform="translate(0,-8.5849115)">
         <image
            transform="scale(1,-1)"
            width="83.17289"
@@ -347,7 +347,7 @@
              sodipodi:role="line">October 2011 - October 2014</tspan></text>
       </g>
       <g
-         transform="translate(0,77.701694)"
+         transform="translate(0,75.09084)"
          id="g3520">
         <text
            transform="scale(1,-1)"
@@ -357,19 +357,14 @@
            y="-451.28253"
            id="text3522"
            sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3524"
-             x="114.55079"
-             y="-451.28253"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Libre Software development   at  Metapolator - Design Fonts and Families Faster</tspan><tspan
              id="tspan3526"
              sodipodi:role="line"
              x="114.55079"
-             y="-437.80753"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">http://metapolator.com/</tspan></text>
+             y="-451.28253"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77999973px;font-family:Times;-inkscape-font-specification:'Times Bold';fill:#000000;fill-opacity:1">Libre Software development  at  FontBakery, Metapolator and other typography-related projects</tspan></text>
         <g
            id="g3528"
-           transform="matrix(0.9,0,0,0.9,81.887973,-24.545874)">
+           transform="matrix(0.9,0,0,0.9,81.887973,-10.447458)">
           <flowRoot
              transform="matrix(0.88888888,0,0,-0.88888888,-246.13819,816.15375)"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
@@ -383,31 +378,33 @@
                  width="593.953"
                  id="rect3534" /></flowRegion><flowPara
                id="flowPara3552"
-               style="font-size:13.75px;fill:#666666;fill-opacity:1">Software development for the Metapolator project, a web application that helps</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1">https://github.com/googlefonts/fontbakery/</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara112">Development of FontBakery, a set of automated quality assurance checks for a large set</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara103">of font files prior to submission to Google Web Fonts.</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara108" /><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara115">http://metapolator.com/</flowPara><flowPara
+               style="font-size:13.75px;fill:#666666;fill-opacity:1"
+               id="flowPara100">Software development for the Metapolator project, a web application that helps</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara3761">type designers working on parametric type design.</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
                id="flowPara3612">* Import and Export routines supporting the Zipped UFO file format.</flowPara><flowPara
                style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara3614">* OpenType.js integration to also handle the OTF file format.</flowPara><flowPara
-               style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara3616" /><flowPara
-               style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara3618">Further project info at:</flowPara><flowPara
-               style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara3620">* https://github.com/metapolator</flowPara><flowPara
-               style="font-size:13.75px;fill:#666666;fill-opacity:1"
-               id="flowPara3622">* http://metapolator.com/</flowPara></flowRoot>        </g>
+               id="flowPara3622">* OpenType.js integration to also handle the OTF file format.</flowPara></flowRoot>        </g>
         <text
            sodipodi:linespacing="125%"
            id="text3558"
-           y="-422.93613"
+           y="-435.9902"
            x="113.83327"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.82629871px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"
            transform="scale(1,-1)"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Times;-inkscape-font-specification:Times;fill:#000000;fill-opacity:1"
-             y="-422.93613"
+             y="-435.9902"
              x="113.83327"
              id="tspan3560"
              sodipodi:role="line">Since April 2015</tspan></text>
